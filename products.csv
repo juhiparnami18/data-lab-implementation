@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price,cost_price
+P100,Wireless Earbuds,Electronics,1999,1100
+P101,Power Bank,Electronics,1499,850
+P102,Smartwatch,Electronics,3499,2200
+P103,Bluetooth Speaker,Electronics,2499,1400
+P104,Cotton T-Shirt,Fashion,599,250
+P105,Denim Jeans,Fashion,1599,800
+P106,Running Shoes,Fashion,2799,1500
+P107,Cotton Kurta,Fashion,999,450
+P108,Mixer Grinder,Home & Kitchen,3299,2000
+P109,Air Fryer,Home & Kitchen,4999,3100
+P110,Cookware Set,Home & Kitchen,2199,1200
+P111,Cotton Bedsheet,Home & Kitchen,899,400
+P112,Face Serum,Beauty,799,300
+P113,Matte Lipstick,Beauty,499,180
+P114,Sunscreen SPF 50,Beauty,449,170
+P115,Hair Oil,Beauty,349,130
+P116,Python Programming Book,Books,699,350
+P117,Statistics Textbook,Books,899,450
+P118,Fiction Novel,Books,399,180
+P119,Notebook Set,Books,299,120
